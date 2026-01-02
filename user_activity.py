@@ -17,4 +17,4 @@ def main(username):
     # display user activity 
 
 if __name__ == "__main__":
-    main("Change07")
+    main("Change")
